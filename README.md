@@ -1,4 +1,6 @@
-# iccps-2022-paratransit-public
+# DVRP for Paratransit
+
+This Project was part of CS637 course.
 
 Please follow the instructions below.
 
